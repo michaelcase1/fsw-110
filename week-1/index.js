@@ -3,3 +3,5 @@ var favoriteVariable = "Happy Birthday";
 
 console.log(myAge);
 console.log(favoriteVariable);
+
+
