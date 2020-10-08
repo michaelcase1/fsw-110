@@ -21,9 +21,9 @@ const checkedInputs = []
     }
     console.log(checkedInputs)
     function test(){
-        alert (location)
+        alert(location)
     }
 
-
+  alert(location)
  
 button.addEventListener("click", test)
