@@ -1,0 +1,1 @@
+var text1 = document.getElementById("text").innerHTML = ("HELLO WORLD!");

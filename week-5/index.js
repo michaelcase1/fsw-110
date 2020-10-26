@@ -21,7 +21,7 @@ const checkedInputs = []
     }
     console.log(checkedInputs)
     function test(){
-        alert(location)
+        alert(location.value4)
     }
 
   alert(location)
